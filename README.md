@@ -1,2 +1,4 @@
 # Cisco-Computer-Networking
 Design a network for a company that requires its computers to communicate with each other and on the internet.
+
+This is a simple design of network simulation for a new IT training center that just opened up. The center have labs, classrooms, system admins, tutors, wireless devices, inside servers as well as outside servers. some of the PCs can connect with the internet and i have listed inside the packet tracer file that i have blocked some of the PCs with the internet connections by using access control list. The PCs with no internet connections cannot access the web browser from outside server, only the PCs with internet connection can access web browser from outside server. Eventhough the PCs does not have internet, but all the Pcs in the training center still can access the file server and LAN that inside the training center.
